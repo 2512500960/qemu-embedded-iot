@@ -1,5 +1,6 @@
 常用的people.debian.org/~aurel32/最近404了，
-aurel32的博客https://aurel32.net/new-website.html, 说了另一个项目dqib：https://people.debian.org/~gio/dqib/，里面能找到全部的qemu debian image，debian系统版本也是最新的，内核也都是6.x的
+aurel32的博客https://aurel32.net/new-website.html, 说了另一个项目dqib：https://people.debian.org/~gio/dqib/
+里面能找到全部的qemu debian image，debian系统版本也是最新的，内核也都是6.x的
 
 如果想自己做的话，应该是可以用buildroot做出来内核和initrd，然后配合debian的netinstall.iso，应该是可以做出来老版本的http://cdimage.debian.org/cdimage/archive/。
 
